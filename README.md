@@ -1,1 +1,7 @@
-# aicampus-markdown
+markdown은 태그기반의 markup을 단순화 시키기 위해서 나온 방식입니다
+제목은 다음과 같이 쓰세요
+
+markup과 markdown모두 효과가 있습니다. #은 한칸 띄어야함
+
+<h1>제목테스트</h1>
+# 제목테스트
