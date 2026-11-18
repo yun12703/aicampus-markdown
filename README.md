@@ -104,9 +104,16 @@ markup과 markdown모두 효과가 있습니다. #은 엔터 후 한칸 띄어�
 - [https://www.python.org/](https://www.python.org/)
 - <https://www.python.org/>
 
+같은 저장소의 문서는 '상대경로'를 이용해서 접근할 수 있습니다.
 
+-[테스트문서](./dummy/test.md)
 
+# 이미지(image)
 
+이미지는 링크 앞에 '!' 만 추가하면 됩니다. 
+단, 주소의 대상이 반드시 이미지여야합니다.(아니면 엑박이 나옵니다)
+내가 가진 이미지, 남이 가진 이미지 모두 표시가 가능합니다.
+![카카오라이언](https://www.jjalbang.today/files/jjalbox/2016/12/20161208_5849119d044a3.gif)
 
 
 
